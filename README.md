@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Simple File Explorer
+
+## Introduction
+
+This project is a front-end application made in React.js, TypeScript and CSS modules.
+
+It is a recruitment task for the position of Junior React Developer.
+
+## Technologies used in the project
+
+The project was written in React.js and TypeScript. I used CSS modules for styling.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
