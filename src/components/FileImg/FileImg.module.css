@@ -1,0 +1,11 @@
+.fileButton {
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
+
+.fileImg {
+    width: 50px;
+}

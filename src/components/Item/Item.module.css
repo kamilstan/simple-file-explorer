@@ -1,0 +1,8 @@
+.item {
+    display: flex;
+    margin: 20px;
+}
+
+.itemName {
+    margin-left: 10px;
+}

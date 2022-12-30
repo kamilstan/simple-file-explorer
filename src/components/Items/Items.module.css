@@ -1,0 +1,13 @@
+.items {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    /*margin: 10vh auto;*/
+    /*width: 60%;*/
+    /*height: 50vh;*/
+    /*border: 1px solid #000;*/
+    /*border-radius: 2px;*/
+    /*box-shadow: 2px 2px 5px #000;*/
+    /*background-color: #fff;*/
+}

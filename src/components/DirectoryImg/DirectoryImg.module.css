@@ -1,0 +1,11 @@
+.directoryButton {
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
+
+.directoryImg {
+    width: 50px;
+}
